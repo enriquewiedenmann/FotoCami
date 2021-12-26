@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FotoCami2.0", "FotoCami2.0\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FotoCami3.0", "FotoCami3.0\FotoCami3.0.csproj", "{DF4FC98B-3870-485A-86E2-1B3FA29C6254}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FotoCami4.0", "FotoCami4.0\FotoCami4.0.csproj", "{DD6FF951-263B-42B2-AD22-E912FE7B8FAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DF4FC98B-3870-485A-86E2-1B3FA29C6254}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF4FC98B-3870-485A-86E2-1B3FA29C6254}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF4FC98B-3870-485A-86E2-1B3FA29C6254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6FF951-263B-42B2-AD22-E912FE7B8FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6FF951-263B-42B2-AD22-E912FE7B8FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6FF951-263B-42B2-AD22-E912FE7B8FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6FF951-263B-42B2-AD22-E912FE7B8FAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
